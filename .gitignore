@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+/logs/
+/log/
+*.log
+/cache/
+/tmp/
+/storage/
+*.cache
