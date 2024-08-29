@@ -23,7 +23,7 @@ cd YourFoldersName
 2. Clone the APP: 
 
 ```powershell
-git clone git clone https://github.com/ModJuska123/donation-app-php-cli-project
+git clone https://github.com/ModJuska123/donation-app-php-cli-project
 ```
 
 3. Run a XAMPP server (Apache and Mysql).
