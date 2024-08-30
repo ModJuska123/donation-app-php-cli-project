@@ -3,6 +3,8 @@
 This is a simple PHP CLI APP designed to track donations, enables log donations to specific charities. 
 Project is developed for educational purposes only.
 
+![image info](./img.png)
+
 ## 📑 Table of Contents
 - Installation
 - Running the APP
@@ -28,13 +30,13 @@ git clone https://github.com/ModJuska123/donation-app-php-cli-project
 
 3. Run a XAMPP server (Apache and Mysql).
 
-4. Create a 'fundraiser' DB with tables 'charities' and 'donations'.
+4. Create a `fundraiser` DB with tables `charities`(columns: id;name;email) and `donations` (columns: id;name;amount;charity_id;date).
 
-5. Create a csv file with columns: name;email.
+5. Create a `csv` file (columns: name;email).
 
 ## 🎉Running the APP
 
-1. Open the APP you just cloned.
+1. Open the APP you just cloned entering `cd YourFoldersName`.
 2. Run the APP entering `php index.php` into the terminal.
 
 
